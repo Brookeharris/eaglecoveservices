@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; Eagle Cove Bar Services &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://brookeharris.github.io/eaglecoveservices/wp-includes/css/dashicons.min.css?ver=6.0-alpha-52682" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://brookeharris.github.io/eaglecoveservices/wp-includes/css/buttons.min.css?ver=6.0-alpha-52682" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://brookeharris.github.io/eaglecoveservices/wp-admin/css/forms.min.css?ver=6.0-alpha-52682" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://brookeharris.github.io/eaglecoveservices/wp-admin/css/l10n.min.css?ver=6.0-alpha-52682" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://brookeharris.github.io/eaglecoveservices/wp-admin/css/login.min.css?ver=6.0-alpha-52682" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://brookeharris.github.io/eaglecoveservices/wp-includes/css/dashicons.min.css?ver=6.0-alpha-52743" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://brookeharris.github.io/eaglecoveservices/wp-includes/css/buttons.min.css?ver=6.0-alpha-52743" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://brookeharris.github.io/eaglecoveservices/wp-admin/css/forms.min.css?ver=6.0-alpha-52743" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://brookeharris.github.io/eaglecoveservices/wp-admin/css/l10n.min.css?ver=6.0-alpha-52743" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://brookeharris.github.io/eaglecoveservices/wp-admin/css/login.min.css?ver=6.0-alpha-52743" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -44,7 +44,7 @@
 		</form>
 
 					<p id="nav">
-								<a href="https://brookeharris.github.io/eaglecoveservices/my-account/lost-password/">Lost your password?</a>
+								<a href="https://brookeharris.github.io/eaglecoveservices/wp-login.php?action=lostpassword">Lost your password?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
@@ -80,17 +80,17 @@ var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-admin/js/password-strength-meter.min.js?ver=6.0-alpha-52682" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-admin/js/password-strength-meter.min.js?ver=6.0-alpha-52743" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /*  */
 var _wpUtilSettings = {"ajax":{"url":"\/wordpress-trunk\/wp-admin\/admin-ajax.php"}};
 /*  */
 </script>
-<script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-includes/js/wp-util.min.js?ver=6.0-alpha-52682" id="wp-util-js"></script>
+<script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-includes/js/wp-util.min.js?ver=6.0-alpha-52743" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"4401673c4c"};
+var userProfileL10n = {"user_id":"0","nonce":"6b7aba902e"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
@@ -100,7 +100,7 @@ var userProfileL10n = {"user_id":"0","nonce":"4401673c4c"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", { "locale_data": { "messages": { "": {} } } } );
 </script>
-<script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-admin/js/user-profile.min.js?ver=6.0-alpha-52682" id="user-profile-js"></script>
+<script type="text/javascript" src="https://brookeharris.github.io/eaglecoveservices/wp-admin/js/user-profile.min.js?ver=6.0-alpha-52743" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
